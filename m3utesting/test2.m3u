@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-MEDIA-SEQUENCE:1
 
 #EXTINF:123, BigBuckBunny - BigBuckBunny
 https://file-examples.com/storage/fe290a4478623c82f268fc3/2017/11/file_example_MP3_700KB.mp3
